@@ -1,0 +1,9 @@
+# Android Studio-generated files
+.gradle/
+.idea/
+build/
+*.iml
+local.properties
+gradle-wrapper.jar
+
+/app/build/
